@@ -2,9 +2,9 @@
 Test para panel de matriz de leds de 64x32 mostrado un reloj
 
 Basado en: 
-  Rui Santos https://RandomNerdTutorials.com/esp32-date-time-ntp-client-server-arduino/
+  [Rui Santos](https://RandomNerdTutorials.com/esp32-date-time-ntp-client-server-arduino/)
   y
-  Domótica Fácil con Jota en YouTube https://github.com/domoticafacilconjota/panel-led-mqtt
+  [Domótica Fácil con Jota en YouTube](https://github.com/domoticafacilconjota/panel-led-mqtt)
 
   Copyright (C) 2020  Radioelf http://radioelf.blogspot.com/
 
