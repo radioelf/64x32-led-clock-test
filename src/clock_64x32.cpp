@@ -27,7 +27,7 @@ Basado en:
 #include "time.h"
 #include <SmartMatrix3.h>                                                             // Librería para controlar el panel LED
 
-const char* ssid     = "ssid";                                                        // Cambiar
+const char* ssid     = "--ssid--";                                                    // Cambiar
 const char* password = "*********";                                                   // Cambiar
 
 const char* ntpServer = "es.pool.ntp.org";                                            // hora.roa.es
