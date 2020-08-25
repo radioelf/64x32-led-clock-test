@@ -27,8 +27,8 @@ Basado en:
 #include "time.h"
 #include <SmartMatrix3.h>                                                             // Librería para controlar el panel LED
 
-const char* ssid     = "wifi_domo";
-const char* password = "C607956A25";
+const char* ssid     = "wifi_domo";                                                   // Cambiar
+const char* password = "6607956A43";                                                  // Cambiar
 
 const char* ntpServer = "es.pool.ntp.org";                                            // hora.roa.es
 const long  gmtOffset_sec = 3600;                                                     // GMT +1h
