@@ -31,7 +31,7 @@ const char* ssid     = "--ssid--";                                              
 const char* password = "*********";                                                   // Cambiar
 
 const char* ntpServer = "es.pool.ntp.org";                                            // hora.roa.es
-const long  gmtOffset_sec = 3600;                                                     // GMT +1h
+const long  gmtOffset_sec = 3600;                                                     // GMT +1h (España península)
 const int   daylightOffset_sec = 3600;                                                // +1h verano/invierno
 
 #define configTIMER_TASK_STACK_DEPTH 4096         
