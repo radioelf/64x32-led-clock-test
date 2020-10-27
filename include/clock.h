@@ -195,6 +195,7 @@ void three (uint8_t digit, boolean morph) {
         backgroundLayer.drawPixel(digit - i, z, BLANCO); 
       }
     }
+   backgroundLayer.drawPixel(digit, 16, NEGRO);
     backgroundLayer.swapBuffers();
   }                  
 }
